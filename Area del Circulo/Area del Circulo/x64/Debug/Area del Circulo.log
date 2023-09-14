@@ -1,0 +1,4 @@
+﻿  Area del Circulo.cpp
+C:\Users\mrcac\OneDrive\Documentos\CP Pruebas\Area del Circulo\Area del Circulo\Area del Circulo.cpp(4,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\mrcac\OneDrive\Documentos\CP Pruebas\Area del Circulo\Area del Circulo\Area del Circulo.cpp(9,7): warning C4305: '=': truncamiento de 'double' a 'float'
+  Area del Circulo.vcxproj -> C:\Users\mrcac\OneDrive\Documentos\CP Pruebas\Area del Circulo\x64\Debug\Area del Circulo.exe
